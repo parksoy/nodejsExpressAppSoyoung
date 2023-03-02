@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/19897685-e504-465e-bbb3-cc7b623ea854/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/coincidenodejsapp",
+    "appService.deploySubpath": "."
+}
